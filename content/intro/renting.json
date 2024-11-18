@@ -1,0 +1,12 @@
+questions = [
+    "What type of property are you looking to rent?",
+    "What is your budget for monthly rent?",
+    "What is your preferred move-in date?",
+    "How many bedrooms and bathrooms do you need?",
+    "Are you looking for a furnished or unfurnished property?",
+    "Do you have any preferred neighborhoods or locations?",
+    "Are there any specific amenities or features you are looking for?",
+    "How long do you plan to stay in the rental property?",
+    "Do you have any pets or specific requirements for pet policies?",
+    "Would you need parking space or have any transportation preferences?"
+]

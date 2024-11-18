@@ -1,0 +1,12 @@
+questions = [
+    "What brings you in today?",
+    "Can you describe your symptoms in detail?",
+    "How long have you been experiencing these symptoms?",
+    "Have you noticed anything that makes your symptoms better or worse?",
+    "Are you currently taking any medications, including over-the-counter or supplements?",
+    "Do you have any known allergies to medications, foods, or other substances?",
+    "Have you experienced similar symptoms in the past?",
+    "Do you have a history of any chronic medical conditions?",
+    "Is there a family history of similar symptoms or medical conditions?",
+    "Have you recently experienced any significant changes in your lifestyle, such as diet, exercise, or stress levels?"
+]
